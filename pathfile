@@ -1,7 +1,8 @@
 path for files
 
-C:\wamp64\www\vcrm2\layouts\v7\modules\Vtiger\DetailViewActions.tpl
-C:\wamp64\www\vcrm2\layouts\v7\modules\Vtiger\resources\Detail.js
-C:\wamp64\www\vcrm2\modules\Campaigns\views\emaildashboard.php
-C:\wamp64\www\vcrm2\layouts\v7\modules\Campaigns\EmailDashboard.tpl
-C:\wamp64\www\vcrm2\cron\modules\Campaigns\Campaignssendmail.service
+modules\Campaigns\Campaigns.php
+layouts\v7\modules\Vtiger\DetailViewActions.tpl
+layouts\v7\modules\Vtiger\resources\Detail.js
+modules\Campaigns\views\emaildashboard.php
+layouts\v7\modules\Campaigns\EmailDashboard.tpl
+cron\modules\Campaigns\Campaignssendmail.service
